@@ -17,4 +17,4 @@ There were a few targeted goals towards this code refactor.
 ### Visit the website here: https://saraoros.github.io/horiseon-code-refactor/
 
 <br />
-<img src="/Users/gochezfam/Desktop/projects/horiseon-code-refactor/assets/images/Screen Shot 2021-12-23 at 12.32.43 PM.png">
+<img src="./assets/images/page-screenshot.png">
