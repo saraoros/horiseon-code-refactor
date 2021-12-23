@@ -10,10 +10,11 @@ There were a few targeted goals towards this code refactor.
 
 ## User Story
 
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+<p>AS A marketing agency<p>
+<p>I WANT a codebase that follows accessibility standards</p>
+<p>SO THAT our own site is optimized for search engines</p>
 
-<img src="https://courses.bootcampspot.com/courses/1041/files/1221238/preview">
+### Visit the website here: https://saraoros.github.io/horiseon-code-refactor/
 
-Visit the website here:
+<br />
+<img src="/Users/gochezfam/Desktop/projects/horiseon-code-refactor/assets/images/Screen Shot 2021-12-23 at 12.32.43 PM.png">
